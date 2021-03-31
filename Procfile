@@ -1,0 +1,1 @@
+Worker: node ./src/main/java/com/xpert/Stupefy/Vortex.java
